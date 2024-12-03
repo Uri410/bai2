@@ -1,9 +1,4 @@
 
-<html>
-<head>
-<title>CLB</title>
-</head>
-
 <body>
 	<h2>Giới thiệu các hoạt động ngoại khóa</h2>
 	<p>Trường THPT Quốc Thái có bề dày thành tích về học tập và các hoạt động thể thao, văn nghệ của tỉnh.
